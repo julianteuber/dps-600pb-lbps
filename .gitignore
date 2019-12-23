@@ -1,0 +1,8 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+gerber/
+fp-info-cache
+fp-lib-table
+*.kicad_pcb-bak
+*.sch-bak
+*.jpg
