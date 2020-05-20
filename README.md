@@ -8,7 +8,7 @@ The finished supply looks something like this:
 
 > :warning: **High voltage can kill you**: Do not tinker with electrical stuff unless you know exactly what you are doing!
 
-> :warning: **Don't connect the mains cable while working on the circuit**: Be very careful here!
+> :warning: **Don't connect the mains cable while working on the circuit**: Even heat sinks can be under mains voltage!
 
 ### Bill of tools
 
