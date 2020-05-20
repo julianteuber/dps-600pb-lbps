@@ -6,6 +6,10 @@ The finished supply looks something like this:
 
 ## Getting Started
 
+> :warning: **High voltage can kill you**: Do not tinker with electrical stuff unless you know exactly what you are doing!
+
+> :warning: **Don't connect the mains cable while working on the circuit**: Be very careful here!
+
 ### Bill of tools
 
 * soldering iron
